@@ -1,0 +1,66 @@
+/* Chloe Gorman */
+/* Innovative Women Project: Patricia Bath */
+/* 11-Jan-2018 */
+
+* { 
+    margin: 0;
+    padding: 0; }
+    /*padding and margins zeroed out*/
+
+header { 
+    border-bottom: 4px solid #ef9c00;
+    text-align: center; }
+    /*Formatting for header*/
+
+body {
+    width: 85%;
+    background-color: white;
+    margin: 15px auto; 
+    background-color: #BCC6CC; }
+    /*Formatting for footer*/
+
+#sidebarA {
+    width: 29%;
+    height: 400px;     
+    float: left;
+    border-right: 2px solid #ef9c00; 
+    text-align: center; 
+    margin: 20px; }
+    /*Formatting for sidebar A; border, size, etc*/
+
+main {
+    width: 41%; 
+    float: left; 
+    margin: 20px; }
+    /*formatting for main*/
+
+#sidebarB {
+    width: 14%;
+    height: 400px;     
+    float: right;
+    border-left: 2px solid #ef9c00;
+    text-align: center; 
+     margin: 20px; }
+    /*Formatting for sidebar B*/
+
+ul { margin-left: 20px;  }
+
+p { margin: 10px; }
+
+footer {
+    clear: both; 
+    border-top: 5px solid #ef9c00; }
+    /*formatting for footer*/
+    
+a:link { color: #8467D7; }
+a:hover, a:focus { color: #800517; } 
+	/* format for links */
+
+img { 
+	border: 1px solid black; 
+	float: right; } 
+	/*border for images*/	
+
+
+
+
